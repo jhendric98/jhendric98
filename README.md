@@ -54,7 +54,7 @@ Building intelligent **data agents** and **cloud-native pipelines** that integra
 ---
 
 ### 🌐 Connect With Me
-[💼 LinkedIn](https://www.linkedin.com/in/hendricksjim/) • [🐦 Twitter](https://twitter.com/) • [📧 Email](mailto:yourname@example.com)
+[💼 LinkedIn](https://www.linkedin.com/in/hendricksjim/) • [🐦 Twitter](https://x.com/hazeflagtrader) • [📧 Email](mailto:jimmy@hazesoft.com)
 
 ---
 
