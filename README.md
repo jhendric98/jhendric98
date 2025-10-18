@@ -7,7 +7,7 @@
 
 I’m a builder at the intersection of **AI, data, and scalable cloud systems** — passionate about turning complex ideas into production-ready solutions.  
 
-With over a decade of experience across **data science, software engineering, and cloud architecture**, I’ve led development of intelligent systems that power real-world decision-making — from **AI-driven retail forecasting** to **real-time sports analytics**.
+With over two decades of experience across **data science, software engineering, and cloud architecture**, I’ve led development of intelligent systems that power real-world decision-making — from **AI-driven retail forecasting** to **real-time sports analytics**.
 
 I’ve also designed and deployed **retrieval-augmented generation (RAG)** pipelines, **document intelligence systems**, and **agentic AI workflows** that scale securely in **Azure** and **AWS** environments.
 
