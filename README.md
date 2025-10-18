@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jimmy Hendricks  
+# 👋 Hi and welcome to my github, 
 💡 AI / ML Systems Developer & Cloud Engineer | RAG Architect | Azure • AWS • Docker • FastAPI  
 
 ---
