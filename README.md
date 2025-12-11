@@ -45,14 +45,6 @@ Building intelligent **data agents** and **cloud-native pipelines** that integra
 
 ---
 
-### 📈 GitHub Activity
-
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhendric98&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhendric98&layout=compact&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jhendric98&theme=github-dark-blue)
-
----
-
 ### 🌐 Connect With Me
 [💼 LinkedIn](https://www.linkedin.com/in/hendricksjim/) • [🐦 Twitter](https://x.com/hazeflagtrader) • [📧 Email](mailto:jimmy@hazesoft.com)
 
